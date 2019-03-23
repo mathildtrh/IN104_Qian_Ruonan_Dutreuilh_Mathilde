@@ -1,0 +1,6 @@
+prise en main de git en local et de github
+commit maitrisé
+pull inutile si branch n'existe qu'en local
+push + options si branch n'existe qu'en local
+merge maitrisé
+
